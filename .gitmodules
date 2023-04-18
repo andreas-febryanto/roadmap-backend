@@ -1,0 +1,3 @@
+[submodule "gettingstarted-computernetworking"]
+	path = gettingstarted-computernetworking
+	url = https://github.com/andreas-febryanto/gettingstarted-computernetworking.git
